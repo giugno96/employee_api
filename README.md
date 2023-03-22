@@ -2,6 +2,6 @@
 
 Sample API for testing
 
-Clone this repo and start the app:  
-./mvnw spring-boot:run
+## Clone this repo and start the app:  
+`./mvnw spring-boot:run`
 
